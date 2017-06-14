@@ -30,15 +30,20 @@ namespace KIWF
                 Units damage = new Units();
                 damage.Player("");
                 damage.unitOne("attack");
-               
+                
             }
+
+            
+
             else if (iPlayer < iEnemy)
             {
-                Units damage = new Units();
-                damage.unitOne("");
-                damage.Player("attack");
+                Units damageHit = new Units();
+                damageHit.unitOne("");
+                damageHit.Player("attack");
             }
             
+            Console.WriteLine("PLAYER Health:");
+            Console.WriteLine("ENEMY Health:");
 
         }
 

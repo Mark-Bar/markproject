@@ -12,14 +12,15 @@ namespace KIWF
     {
         public static void Main()
         {
-            Dice myDiceOne = new Dice();
 
             Console.WriteLine("    *** KILL IT WITH FIRE ! ***");
-            //Console.WriteLine(" Starring: ");
             Console.WriteLine("");
+
             PlayTime run = new PlayTime();
-            
+            PlayTime runA = new PlayTime();
             run.Play("");
+            runA.Play("");
+
             Console.ReadLine();
         }
 

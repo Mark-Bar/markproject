@@ -6,35 +6,29 @@ using System.Threading.Tasks;
 
 namespace KIWF
 {
-    class Units
+    public class Scratch
     {
-
-        int health = 100;
-
-       //code here bitch
-
-        int healthPlayer = 100;
-
-        public string Player(string damage)
+        public string unitX(string damage, string heart)
         {
-            
+            int health = 100;
             string msg = null;
             if (damage == "attack")
             {
-                healthPlayer--;
-                msg = "ENEMY Drew Blood";
+
+                heart = "";
+                health--;
+                msg = "PLAYER drew blood" + health;
                 Console.WriteLine(msg);
                 return msg;
+               
+
             }
+
             else
             {
                 return msg;
             }
-
-
-          
-
-
         }
     }
+
 }
