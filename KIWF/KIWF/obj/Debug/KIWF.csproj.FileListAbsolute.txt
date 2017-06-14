@@ -1,0 +1,6 @@
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\KIWF\KIWF\bin\Debug\KIWF.exe.config
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\KIWF\KIWF\bin\Debug\KIWF.exe
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\KIWF\KIWF\bin\Debug\KIWF.pdb
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\KIWF\KIWF\obj\Debug\KIWF.csprojResolveAssemblyReference.cache
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\KIWF\KIWF\obj\Debug\KIWF.exe
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\KIWF\KIWF\obj\Debug\KIWF.pdb
