@@ -1,7 +1,0 @@
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.FileHelper\bin\Debug\MarkExample.FileHelper.dll
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.FileHelper\bin\Debug\MarkExample.FileHelper.pdb
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.FileHelper\obj\Debug\MarkExample.FileHelper.csprojResolveAssemblyReference.cache
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.FileHelper\obj\Debug\MarkExample.FileHelper.dll
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.FileHelper\obj\Debug\MarkExample.FileHelper.pdb
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.FileHelper\bin\Debug\MarkExample.Helper.dll
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.FileHelper\bin\Debug\MarkExample.Helper.pdb

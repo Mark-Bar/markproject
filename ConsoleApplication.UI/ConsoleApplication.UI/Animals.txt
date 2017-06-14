@@ -1,4 +1,0 @@
-﻿Dog
-Cat
-Donkey
-Fish

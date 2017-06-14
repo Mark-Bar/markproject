@@ -1,4 +1,0 @@
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.Helper\bin\Debug\MarkExample.Helper.dll
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.Helper\bin\Debug\MarkExample.Helper.pdb
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.Helper\obj\Debug\MarkExample.Helper.dll
-C:\Users\Denys.Wessels\Desktop\Mark\ConsoleApplication.UI\MarkExample.Helper\obj\Debug\MarkExample.Helper.pdb
