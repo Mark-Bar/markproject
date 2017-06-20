@@ -9,22 +9,29 @@ namespace KIWF
     class Dice
     {
 
-        public int roll()
+        //Random rndOne = new Random();
+
+        private static readonly Random random = new Random();
+        private static readonly object syncLock = new object();
+        public static int diceONE(int min, int max)
         {
-
-
-            Random rndOne = new Random();
-
-
-            int diceOne = rndOne.Next(1, 7);
-            System.Threading.Thread.Sleep(5);
-            int diceTwo = rndOne.Next(1, 7);
-            System.Threading.Thread.Sleep(5);
-            int output = diceOne + diceTwo;
-            return output;
-
-
-
+            lock (syncLock)
+            { // synchronize
+                return random.Next(min, max);
+            }
         }
+
+        public static int diceTWO(int min, int max)
+        {
+            lock (syncLock)
+            { // synchronize
+                return random.Next(min, max);
+            }
+        }
+
     }
-}
+
+    }
+
+  
+ 

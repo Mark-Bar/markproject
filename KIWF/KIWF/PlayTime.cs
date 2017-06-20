@@ -10,17 +10,19 @@ namespace KIWF
      class PlayTime
     {
 
-        public void Play(string a)
+        public void Play()
         {
+            Console.WriteLine("");
             Console.Write("Hit enter to roll the dice and begin the assault");
+            Console.WriteLine("");
             Console.ReadLine();
 
             Dice playerRoll = new Dice();
-            string p = playerRoll.roll().ToString();
-            Console.WriteLine("Player rolled a " + p);
+            string p = playerRoll.ToString();
+            Console.WriteLine("Player rolled " + p);
             System.Threading.Thread.Sleep(5);
-            string e = playerRoll.roll().ToString();
-            Console.WriteLine("Enemy  rolled a " + e);
+            string e = playerRoll.ToString();
+            Console.WriteLine("Enemy  rolled " + e);
 
             int iPlayer = Convert.ToInt32(p);
             int iEnemy = Convert.ToInt32(e);
@@ -41,9 +43,14 @@ namespace KIWF
                 damageHit.unitOne("");
                 damageHit.Player("attack");
             }
+
+            else
+            {
+                Console.WriteLine("> No one drew blood");
+            }
             
-            Console.WriteLine("PLAYER Health:");
-            Console.WriteLine("ENEMY Health:");
+            //Console.WriteLine("PLAYER Health:");
+            //Console.WriteLine("ENEMY Health:");
 
         }
 

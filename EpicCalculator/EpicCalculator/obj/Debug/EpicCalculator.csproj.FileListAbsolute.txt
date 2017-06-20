@@ -1,0 +1,9 @@
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\bin\Debug\EpicCalculator.exe.config
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\bin\Debug\EpicCalculator.exe
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\bin\Debug\EpicCalculator.pdb
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.csprojResolveAssemblyReference.cache
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.Form1.resources
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.Properties.Resources.resources
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.csproj.GenerateResource.Cache
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.exe
+c:\users\mark.barfoot\documents\visual studio 2015\Projects\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.pdb

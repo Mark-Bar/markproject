@@ -10,3 +10,9 @@ C:\Users\Mark\Documents\markproject\KIWF\KIWF\bin\Debug\KIWF.pdb
 C:\Users\Mark\Documents\markproject\KIWF\KIWF\obj\Debug\KIWF.csprojResolveAssemblyReference.cache
 C:\Users\Mark\Documents\markproject\KIWF\KIWF\obj\Debug\KIWF.exe
 C:\Users\Mark\Documents\markproject\KIWF\KIWF\obj\Debug\KIWF.pdb
+C:\Users\Mark.barfoot\Documents\markproject\KIWF\KIWF\bin\Debug\KIWF.exe.config
+C:\Users\Mark.barfoot\Documents\markproject\KIWF\KIWF\obj\Debug\KIWF.exe
+C:\Users\Mark.barfoot\Documents\markproject\KIWF\KIWF\obj\Debug\KIWF.pdb
+C:\Users\Mark.barfoot\Documents\markproject\KIWF\KIWF\obj\Debug\KIWF.csprojResolveAssemblyReference.cache
+C:\Users\Mark.barfoot\Documents\markproject\KIWF\KIWF\bin\Debug\KIWF.exe
+C:\Users\Mark.barfoot\Documents\markproject\KIWF\KIWF\bin\Debug\KIWF.pdb

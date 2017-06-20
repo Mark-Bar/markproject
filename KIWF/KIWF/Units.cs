@@ -11,7 +11,24 @@ namespace KIWF
 
         int health = 100;
 
-       //code here bitch
+        public string unitOne(string damage)
+        {
+          
+            string msg = null;
+            if (damage == "attack")
+            {
+                health--;
+                msg = "> PLAYER drew blood";
+                Console.WriteLine(msg);
+                return msg;
+
+            }
+
+            else
+            {
+                return msg;
+            }
+        }
 
         int healthPlayer = 100;
 
@@ -22,19 +39,20 @@ namespace KIWF
             if (damage == "attack")
             {
                 healthPlayer--;
-                msg = "ENEMY Drew Blood";
+                msg = "> ENEMY Drew Blood";
                 Console.WriteLine(msg);
                 return msg;
             }
-            else
+            else 
             {
                 return msg;
             }
 
 
-          
 
 
         }
+
+
     }
 }
