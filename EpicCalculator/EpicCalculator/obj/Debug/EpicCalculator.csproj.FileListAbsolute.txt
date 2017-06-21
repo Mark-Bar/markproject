@@ -16,3 +16,6 @@ C:\Users\Mark\Documents\markproject\EpicCalculator\EpicCalculator\obj\Debug\Epic
 C:\Users\Mark\Documents\markproject\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.csproj.GenerateResource.Cache
 C:\Users\Mark\Documents\markproject\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.exe
 C:\Users\Mark\Documents\markproject\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.pdb
+C:\Users\Mark.barfoot\Documents\markproject\EpicCalculator\EpicCalculator\bin\Debug\EpicCalculator.exe.config
+C:\Users\Mark.barfoot\Documents\markproject\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.exe
+C:\Users\Mark.barfoot\Documents\markproject\EpicCalculator\EpicCalculator\obj\Debug\EpicCalculator.pdb

@@ -1,0 +1,9 @@
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\bin\Debug\FirstSqlApp.exe.config
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\bin\Debug\FirstSqlApp.exe
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\bin\Debug\FirstSqlApp.pdb
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\obj\Debug\FirstSqlApp.csprojResolveAssemblyReference.cache
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\obj\Debug\FirstSqlApp.Form1.resources
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\obj\Debug\FirstSqlApp.Properties.Resources.resources
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\obj\Debug\FirstSqlApp.csproj.GenerateResource.Cache
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\obj\Debug\FirstSqlApp.exe
+C:\Users\Denys.Wessels\Desktop\Writing To SQL\FirstSqlApp\FirstSqlApp\obj\Debug\FirstSqlApp.pdb
